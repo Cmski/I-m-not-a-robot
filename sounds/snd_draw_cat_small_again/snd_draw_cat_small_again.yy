@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_draw_cat_small_again",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.1751473,
+  "exportDir":"",
+  "name":"snd_draw_cat_small_again",
+  "parent":{
+    "name":"Draw",
+    "path":"folders/Sounds/Voice/Draw.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_draw_cat_small_again.wav",
+  "volume":1.0,
+}

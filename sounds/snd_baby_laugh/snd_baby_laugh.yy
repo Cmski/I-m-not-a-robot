@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_baby_laugh",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.1587756,
+  "exportDir":"",
+  "name":"snd_baby_laugh",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Sounds/Effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_baby_laugh.wav",
+  "volume":1.0,
+}

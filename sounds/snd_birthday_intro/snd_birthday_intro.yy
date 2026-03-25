@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_birthday_intro",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":5.8498864,
+  "exportDir":"",
+  "name":"snd_birthday_intro",
+  "parent":{
+    "name":"Birthday",
+    "path":"folders/Sounds/Voice/Birthday.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_birthday_intro.wav",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_bread_goose_lose",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":5.6287074,
+  "exportDir":"",
+  "name":"snd_bread_goose_lose",
+  "parent":{
+    "name":"Bread Goose",
+    "path":"folders/Sounds/Voice/Bread Goose.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_bread_goose_lose.wav",
+  "volume":1.0,
+}

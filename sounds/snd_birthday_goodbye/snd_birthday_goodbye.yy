@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_birthday_goodbye",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":13.16839,
+  "exportDir":"",
+  "name":"snd_birthday_goodbye",
+  "parent":{
+    "name":"Birthday",
+    "path":"folders/Sounds/Voice/Birthday.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_birthday_goodbye.wav",
+  "volume":1.0,
+}

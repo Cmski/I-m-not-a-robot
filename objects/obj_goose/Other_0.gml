@@ -1,0 +1,1 @@
+if (fleeing) instance_destroy();

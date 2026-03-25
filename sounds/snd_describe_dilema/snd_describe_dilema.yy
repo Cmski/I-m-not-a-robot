@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_describe_dilema",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":7.7412243,
+  "exportDir":"",
+  "name":"snd_describe_dilema",
+  "parent":{
+    "name":"Describe",
+    "path":"folders/Sounds/Voice/Describe.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_describe_dilema.wav",
+  "volume":1.0,
+}

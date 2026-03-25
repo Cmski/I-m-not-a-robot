@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_baby_intro",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":10.226395,
+  "exportDir":"",
+  "name":"snd_baby_intro",
+  "parent":{
+    "name":"Baby",
+    "path":"folders/Sounds/Voice/Baby.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_baby_intro.wav",
+  "volume":1.0,
+}

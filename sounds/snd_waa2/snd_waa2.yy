@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_waa2",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.3869388,
+  "exportDir":"",
+  "name":"snd_waa2",
+  "parent":{
+    "name":"Physics Stacking",
+    "path":"folders/Sounds/Voice/Physics Stacking.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_waa2.wav",
+  "volume":1.0,
+}

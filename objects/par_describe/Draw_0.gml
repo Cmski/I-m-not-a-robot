@@ -1,0 +1,1 @@
+if (show_image) draw_sprite(spr_describe, 0, 621, 286);

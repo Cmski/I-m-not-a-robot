@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_OLDTVFilter_Noise",
+  "name":"sh_OLDTVFilter_Noise",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

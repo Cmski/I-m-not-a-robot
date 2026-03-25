@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_yes_plant",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":5.332789,
+  "exportDir":"",
+  "name":"snd_yes_plant",
+  "parent":{
+    "name":"Hide",
+    "path":"folders/Sounds/Voice/Hide.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_yes_plant.wav",
+  "volume":1.0,
+}

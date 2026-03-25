@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_brian_eye_reset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_brian_eye_reset",
+  "parent":{
+    "name":"Brian",
+    "path":"folders/Scripts/Brian.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

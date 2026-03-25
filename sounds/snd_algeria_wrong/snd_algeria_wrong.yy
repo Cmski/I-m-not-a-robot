@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_algeria_wrong",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":5.403855,
+  "exportDir":"",
+  "name":"snd_algeria_wrong",
+  "parent":{
+    "name":"Where",
+    "path":"folders/Sounds/Voice/Where.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_algeria_wrong.wav",
+  "volume":1.0,
+}

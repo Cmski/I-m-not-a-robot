@@ -1,0 +1,1 @@
+scr_set_dialogue(dialogue.spleen_intro);

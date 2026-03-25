@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_physics_intro",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":8.77161,
+  "exportDir":"",
+  "name":"snd_physics_intro",
+  "parent":{
+    "name":"Physics Stacking",
+    "path":"folders/Sounds/Voice/Physics Stacking.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_physics_intro.wav",
+  "volume":1.0,
+}

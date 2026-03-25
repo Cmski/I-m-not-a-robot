@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_toggle_cursor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_toggle_cursor",
+  "parent":{
+    "name":"Cursor",
+    "path":"folders/Scripts/Cursor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

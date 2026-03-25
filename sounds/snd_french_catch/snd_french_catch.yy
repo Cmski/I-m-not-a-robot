@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_french_catch",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.0323355,
+  "exportDir":"",
+  "name":"snd_french_catch",
+  "parent":{
+    "name":"Bread Goose",
+    "path":"folders/Sounds/Voice/Bread Goose.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_french_catch.wav",
+  "volume":1.0,
+}

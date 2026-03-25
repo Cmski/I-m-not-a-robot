@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_select_regret_intro",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":4.350839,
+  "exportDir":"",
+  "name":"snd_select_regret_intro",
+  "parent":{
+    "name":"Select",
+    "path":"folders/Sounds/Voice/Select.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_select_regret_intro.wav",
+  "volume":1.0,
+}

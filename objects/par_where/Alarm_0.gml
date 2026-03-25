@@ -1,0 +1,1 @@
+scr_set_dialogue(dialogue.algeria_intro);

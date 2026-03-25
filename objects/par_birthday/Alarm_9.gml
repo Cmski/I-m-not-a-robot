@@ -1,0 +1,2 @@
+///@desc Fadeout
+fading = true;

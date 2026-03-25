@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_describe_gluttonous",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":6.457687,
+  "exportDir":"",
+  "name":"snd_describe_gluttonous",
+  "parent":{
+    "name":"Describe",
+    "path":"folders/Sounds/Voice/Describe.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_describe_gluttonous.wav",
+  "volume":1.0,
+}

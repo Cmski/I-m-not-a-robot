@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_physics_countdown",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.9571882,
+  "exportDir":"",
+  "name":"snd_physics_countdown",
+  "parent":{
+    "name":"Physics Stacking",
+    "path":"folders/Sounds/Voice/Physics Stacking.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_physics_countdown.wav",
+  "volume":1.0,
+}

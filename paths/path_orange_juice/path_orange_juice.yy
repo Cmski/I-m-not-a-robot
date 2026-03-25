@@ -1,0 +1,22 @@
+{
+  "$GMPath":"",
+  "%Name":"path_orange_juice",
+  "closed":false,
+  "kind":1,
+  "name":"path_orange_juice",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":0.0,"y":0.0,},
+    {"speed":100.0,"x":488.5,"y":401.0,},
+    {"speed":100.0,"x":796.5,"y":169.0,},
+    {"speed":100.0,"x":642.5,"y":-72.0,},
+    {"speed":100.0,"x":225.5,"y":-23.0,},
+    {"speed":100.0,"x":-0.5,"y":0.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

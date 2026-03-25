@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_spleeven_name",
+  "audioGroupId":{
+    "name":"effects",
+    "path":"audiogroups/effects",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":5.573651,
+  "exportDir":"",
+  "name":"snd_spleeven_name",
+  "parent":{
+    "name":"Baby",
+    "path":"folders/Sounds/Voice/Baby.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_spleeven_name.wav",
+  "volume":1.0,
+}

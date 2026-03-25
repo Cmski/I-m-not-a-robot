@@ -1,0 +1,1 @@
+image_alpha = active ? 1 : inactive_alpha;
