@@ -1,4 +1,4 @@
-if (percent < 0.01)
+if (percent < 0.005)
 {
 	if (bad_again)
 	{
