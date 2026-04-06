@@ -45,7 +45,7 @@ show_audio = true;
 }
 
 function answer_wrong(){
-scr_set_dialogue(dialogue.baby_wrong);
+scr_set_dialogue(dialogue.baby_wrong, undefined, false);
 
 chosen = true;
 
@@ -55,8 +55,7 @@ with (obj_option_button) active = false;
 }
 
 function answer_right(){
-scr_set_dialogue(dialogue.baby_correct);
-
+scr_set_dialogue(dialogue.baby_correct, undefined, false);
 chosen = true;
 
 alarm[10] = 380;
