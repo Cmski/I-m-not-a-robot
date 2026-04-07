@@ -88,11 +88,15 @@ goose_cleanup();
 scr_toggle_cursor(true);
 instance_destroy(obj_bread);
 scr_set_dialogue(dialogue.bread_goose_lose);
+
+scr_play_music(snd_music_1);
 alarm[7] = 500;
 }
 
 function geese_win(){
 goose_cleanup();	
 scr_set_dialogue(dialogue.bread_goose_win);
+
+scr_play_music(snd_music_1);
 alarm[7] = 500;
 }

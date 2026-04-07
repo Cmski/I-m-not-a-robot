@@ -11,5 +11,7 @@ else
 {
 	with (bread) alarm[1] = 10;
 	
+	scr_play_music(snd_music_task);
+	
 	alarm[4] = 360;
 }

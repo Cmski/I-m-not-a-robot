@@ -2,7 +2,7 @@ dialogue = dialogue_describe();
 
 options = [
 { text: "Delicious", callback: answer_delicious},
-{ text: "Dilemma", callback: answer_dilema},
+{ text: "Morality", callback: answer_dilema},
 { text: "Gluttonous", callback: answer_gluttonous},
 { text: "Cheeky", callback: answer_cheeky},
 ];
